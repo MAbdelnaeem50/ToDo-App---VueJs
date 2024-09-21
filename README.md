@@ -1,9 +1,16 @@
 # todo
+
 1-Using Composition api
+
 2-using Tailwind css
+
 3-add tasks in local storage
-![Screenshot 2024-09-21 132147](https://github.com/user-attachments/assets/b94f075e-c96b-4c32-b0e7-88e61c66065f)
-![Screenshot 2024-09-21 132441](https://github.com/user-attachments/assets/63b5ae4e-a2fe-49f9-8f5b-64e77f1cab8e)
+
+![Screenshot 2024-09-21 132147](https://github.com/user-attachments/assets/0c706889-142b-4a2c-942b-f2c48111fc15)
+
+![Screenshot 2024-09-21 132441](https://github.com/user-attachments/assets/39134f01-1334-41c8-91cb-2e7b2d655e28)
+
+
 
 
 
