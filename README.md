@@ -2,8 +2,8 @@
 1-Using Composition api
 2-using Tailwind css
 3-add tasks in local storage
-![Screenshot 2024-09-21 132441](https://github.com/user-attachments/assets/ee51f22c-6d23-44a4-b475-8e1dbe5eeed5)
-![Screenshot 2024-09-21 132147](https://github.com/user-attachments/assets/5c6b25d0-085a-4a1f-8a33-f07bee818b73)
+![Screenshot 2024-09-21 132147](https://github.com/user-attachments/assets/b94f075e-c96b-4c32-b0e7-88e61c66065f)
+![Screenshot 2024-09-21 132441](https://github.com/user-attachments/assets/63b5ae4e-a2fe-49f9-8f5b-64e77f1cab8e)
 
 
 
